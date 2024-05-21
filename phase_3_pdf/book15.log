@@ -1,0 +1,605 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.5.21)  21 MAY 2024 14:14
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**phase_2_tex/book15.tex
+(./phase_2_tex/book15.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-02-20>
+(/usr/local/texlive/2024/texmf-dist/tex/latex/koma-script/scrbook.cls
+Document Class: scrbook 2023/07/07 v3.41 KOMA-Script document class (book)
+(/usr/local/texlive/2024/texmf-dist/tex/latex/koma-script/scrkbase.sty
+Package: scrkbase 2023/07/07 v3.41 KOMA-Script package (KOMA-Script-dependent b
+asics and keyval usage)
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/koma-script/scrbase.sty
+Package: scrbase 2023/07/07 v3.41 KOMA-Script package (KOMA-Script-independent 
+basics and keyval usage)
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/koma-script/scrlfile.sty
+Package: scrlfile 2023/07/07 v3.41 KOMA-Script package (file load hooks)
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty
+Package: scrlfile-hook 2023/07/07 v3.41 KOMA-Script package (using LaTeX hooks)
+
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/koma-script/scrlogo.sty
+Package: scrlogo 2023/07/07 v3.41 KOMA-Script package (logo)
+)))
+(/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+Applying: [2021/05/01] Usage of raw or classic option list on input line 252.
+Already applied: [0000/00/00] Usage of raw or classic option list on input line
+ 368.
+))
+(/usr/local/texlive/2024/texmf-dist/tex/latex/koma-script/tocbasic.sty
+Package: tocbasic 2023/07/07 v3.41 KOMA-Script package (handling toc-files)
+\scr@dte@tocline@numberwidth=\skip48
+\scr@dte@tocline@numbox=\box51
+)
+Package tocbasic Info: omitting babel extension for `toc'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `toc' on input line 135.
+Package scrbook Info: You've used standard option `12pt'.
+(scrbook)             This is correct!
+(scrbook)             Internally I'm using `fontsize=12pt'.
+(scrbook)             If you'd like to set the option with \KOMAoptions,
+(scrbook)             you'd have to use `fontsize=12pt' there
+(scrbook)             instead of `12pt', too.
+Class scrbook Info: File `scrsize12pt.clo' used to setup font sizes on input li
+ne 2691.
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/koma-script/scrsize12pt.clo
+File: scrsize12pt.clo 2023/07/07 v3.41 KOMA-Script font size class option (12pt
+)
+)
+(/usr/local/texlive/2024/texmf-dist/tex/latex/koma-script/typearea.sty
+Package: typearea 2023/07/07 v3.41 KOMA-Script package (type area)
+\ta@bcor=\skip49
+\ta@div=\count188
+\ta@hblk=\skip50
+\ta@vblk=\skip51
+\ta@temp=\skip52
+\footheight=\skip53
+Package typearea Info: With paper sizes other than (almost) `A4' predefined
+(typearea)             DIV values do not exist. Using DIV calculation for good
+(typearea)             line width (unless using `version=3.24` or prior).
+
+DIV calculation for typearea with good linewidth.
+Package typearea Info: These are the values describing the layout:
+(typearea)             DIV  = 45
+(typearea)             BCOR = 0.0pt
+(typearea)             \paperwidth      = 433.62pt
+(typearea)              \textwidth      = 404.71204pt
+(typearea)              DIV departure   = 0%
+(typearea)              \evensidemargin = -52.99802pt
+(typearea)              \oddsidemargin  = -62.634pt
+(typearea)             \paperheight     = 650.43pt
+(typearea)              \textheight     = 519.5pt
+(typearea)              \topmargin      = -57.816pt
+(typearea)              \headheight     = 18.125pt
+(typearea)              \headsep        = 21.75pt
+(typearea)              \topskip        = 12.0pt
+(typearea)              \footskip       = 50.75pt
+(typearea)              \baselineskip   = 14.5pt
+(typearea)              on input line 1799.
+)
+\c@part=\count189
+\c@chapter=\count190
+\c@section=\count191
+\c@subsection=\count192
+\c@subsubsection=\count193
+\c@paragraph=\count194
+\c@subparagraph=\count195
+\scr@dte@chapter@maxnumwidth=\skip54
+Class scrbook Info: using compatibility default `afterindent=bysign'
+(scrbook)           for `\chapter on input line 5990.
+\scr@dte@section@maxnumwidth=\skip55
+Class scrbook Info: using compatibility default `runin=bysign'
+(scrbook)           for `\section on input line 6001.
+Class scrbook Info: using compatibility default `afterindent=bysign'
+(scrbook)           for `\section on input line 6001.
+\scr@dte@part@maxnumwidth=\skip56
+Class scrbook Info: using compatibility default `afterindent=true'
+(scrbook)           for `\part on input line 6010.
+\scr@dte@subsection@maxnumwidth=\skip57
+Class scrbook Info: using compatibility default `runin=bysign'
+(scrbook)           for `\subsection on input line 6020.
+Class scrbook Info: using compatibility default `afterindent=bysign'
+(scrbook)           for `\subsection on input line 6020.
+\scr@dte@subsubsection@maxnumwidth=\skip58
+Class scrbook Info: using compatibility default `runin=bysign'
+(scrbook)           for `\subsubsection on input line 6030.
+Class scrbook Info: using compatibility default `afterindent=bysign'
+(scrbook)           for `\subsubsection on input line 6030.
+\scr@dte@paragraph@maxnumwidth=\skip59
+Class scrbook Info: using compatibility default `runin=bysign'
+(scrbook)           for `\paragraph on input line 6041.
+Class scrbook Info: using compatibility default `afterindent=bysign'
+(scrbook)           for `\paragraph on input line 6041.
+\scr@dte@subparagraph@maxnumwidth=\skip60
+Class scrbook Info: using compatibility default `runin=bysign'
+(scrbook)           for `\subparagraph on input line 6051.
+Class scrbook Info: using compatibility default `afterindent=bysign'
+(scrbook)           for `\subparagraph on input line 6051.
+\abovecaptionskip=\skip61
+\belowcaptionskip=\skip62
+\c@pti@nb@sid@b@x=\box52
+Package tocbasic Info: omitting babel extension for `lof'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `lof' on input line 7242.
+\scr@dte@figure@maxnumwidth=\skip63
+\c@figure=\count196
+Package tocbasic Info: omitting babel extension for `lot'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `lot' on input line 7259.
+\scr@dte@table@maxnumwidth=\skip64
+\c@table=\count197
+Class scrbook Info: Redefining `\numberline' on input line 7430.
+\bibindent=\dimen140
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2023-11-01 v4.19 Multi-page Table package (DPC)
+\LTleft=\skip65
+\LTright=\skip66
+\LTpre=\skip67
+\LTpost=\skip68
+\LTchunksize=\count198
+\LTcapwidth=\dimen141
+\LT@head=\box53
+\LT@firsthead=\box54
+\LT@foot=\box55
+\LT@lastfoot=\box56
+\LT@gbox=\box57
+\LT@cols=\count199
+\LT@rows=\count266
+\c@LT@tables=\count267
+\c@LT@chunks=\count268
+\LT@p@ftn=\toks18
+)
+Class scrbook Info: longtable captions redefined on input line 7.
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/newtx/newtxmath.sty
+Package: newtxmath 2024/03/06 v1.742
+
+`newtxmath' v1.742, 2024/03/06 Math macros based originally on txfonts (msharpe
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2023/05/13 v2.17o AMS math features
+\@mathmargin=\skip69
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2024/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks19
+\ex@=\dimen142
+))
+(/usr/local/texlive/2024/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen143
+)
+(/usr/local/texlive/2024/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count269
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count270
+\leftroot@=\count271
+LaTeX Info: Redefining \overline on input line 399.
+LaTeX Info: Redefining \colon on input line 410.
+\classnum@=\count272
+\DOTSCASE@=\count273
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box58
+\strutbox@=\box59
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen144
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count274
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
+\c@MaxMatrixCols=\count275
+\dotsspace@=\muskip16
+\c@parentequation=\count276
+\dspbrk@lvl=\count277
+\tag@help=\toks20
+\row@=\count278
+\column@=\count279
+\maxfields@=\count280
+\andhelp@=\toks21
+\eqnshift@=\dimen145
+\alignsep@=\dimen146
+\tagshift@=\dimen147
+\tagwidth@=\dimen148
+\totwidth@=\dimen149
+\lineht@=\dimen150
+\@envbody=\toks22
+\multlinegap=\skip70
+\multlinetaggap=\skip71
+\mathdisplay@stack=\toks23
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+)
+(/usr/local/texlive/2024/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+)
+(/usr/local/texlive/2024/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count281
+)
+(/usr/local/texlive/2024/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+)
+(/usr/local/texlive/2024/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+
+(/usr/local/texlive/2024/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/local/texlive/2024/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks24
+\XKV@tempa@toks=\toks25
+)
+\XKV@depth=\count282
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(/usr/local/texlive/2024/texmf-dist/tex/latex/oberdiek/centernot.sty
+Package: centernot 2016/05/16 v1.4 Centers the not symbol horizontally (HO)
+)
+\tx@cntz=\count283
+
+(/usr/local/texlive/2024/texmf-dist/tex/generic/kastrup/binhex.tex)
+\tx@Isdigit=\count284
+\tx@IsAlNum=\count285
+\tx@tA=\toks26
+\tx@tB=\toks27
+\tx@su=\read2
+
+amsthm NOT loaded
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 393.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/m/n on input line 393.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/cmr/m/n on input line 393.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/b/n on input line 394.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 401.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 401.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 401.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 403.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 410.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/cmr/m/it on input line 410.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/cmr/m/it on input line 410.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 411.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 411.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 411.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 413.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/cmr/b/n on input line 413.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/cmr/b/n on input line 413.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/m/it --> OT1/cmr/b/it on input line 414.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/b/n on input line 417.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 519.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/ntxmi/m/it on input line 519.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/ntxmi/m/it on input line 519.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/ntxmi/m/it --> OML/ntxmi/b/it on input line 520.
+\symlettersA=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `lettersA' in version `bold'
+(Font)                  U/ntxmia/m/it --> U/ntxmia/b/it on input line 565.
+Now handling font encoding LMS ...
+... no UTF-8 mapping file for font encoding LMS
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 587.
+LaTeX Font Info:    Encoding `OMS' has changed to `LMS' for symbol font
+(Font)              `symbols' in the math version `normal' on input line 587.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> LMS/ntxsy/m/n on input line 587.
+LaTeX Font Info:    Encoding `OMS' has changed to `LMS' for symbol font
+(Font)              `symbols' in the math version `bold' on input line 587.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> LMS/ntxsy/m/n on input line 587.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  LMS/ntxsy/m/n --> LMS/ntxsy/b/n on input line 588.
+\symAMSm=\mathgroup5
+LaTeX Font Info:    Overwriting symbol font `AMSm' in version `bold'
+(Font)                  U/ntxsym/m/n --> U/ntxsym/b/n on input line 613.
+\symsymbolsC=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `symbolsC' in version `bold'
+(Font)                  U/ntxsyc/m/n --> U/ntxsyc/b/n on input line 634.
+Now handling font encoding LMX ...
+... no UTF-8 mapping file for font encoding LMX
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 647.
+LaTeX Font Info:    Encoding `OMX' has changed to `LMX' for symbol font
+(Font)              `largesymbols' in the math version `normal' on input line 6
+47.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> LMX/ntxexx/m/n on input line 647.
+LaTeX Font Info:    Encoding `OMX' has changed to `LMX' for symbol font
+(Font)              `largesymbols' in the math version `bold' on input line 647
+.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> LMX/ntxexx/m/n on input line 647.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  LMX/ntxexx/m/n --> LMX/ntxexx/b/n on input line 648.
+\symlargesymbolsTXA=\mathgroup7
+LaTeX Font Info:    Overwriting symbol font `largesymbolsTXA' in version `bold'
+
+(Font)                  U/ntxexa/m/n --> U/ntxexa/b/n on input line 662.
+\tx@sbptoks=\toks28
+LaTeX Font Info:    Redeclaring math delimiter \lfloor on input line 885.
+LaTeX Font Info:    Redeclaring math delimiter \rfloor on input line 886.
+LaTeX Font Info:    Redeclaring math delimiter \lceil on input line 887.
+LaTeX Font Info:    Redeclaring math delimiter \rceil on input line 888.
+LaTeX Font Info:    Redeclaring math delimiter \lbrace on input line 893.
+LaTeX Font Info:    Redeclaring math delimiter \rbrace on input line 894.
+LaTeX Font Info:    Redeclaring math delimiter \langle on input line 896.
+LaTeX Font Info:    Redeclaring math delimiter \rangle on input line 898.
+LaTeX Font Info:    Redeclaring math delimiter \arrowvert on input line 902.
+LaTeX Font Info:    Redeclaring math delimiter \vert on input line 903.
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 949.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 974.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 975.
+LaTeX Font Info:    Redeclaring math accent \vec on input line 2048.
+LaTeX Info: Redefining \Bbbk on input line 2838.
+LaTeX Info: Redefining \not on input line 2986.
+)
+(/usr/local/texlive/2024/texmf-dist/tex/latex/ebgaramond-maths/ebgaramond-maths
+.sty
+Package: ebgaramond-maths 2019/09/24 v1.2 ebgaramond-maths for use with EBGaram
+ond
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/ebgaramond/ebgaramond.sty
+Package: ebgaramond 2022/09/10 (Bob Tennent and autoinst) Style file for EB Gar
+amond fonts.
+
+(/usr/local/texlive/2024/texmf-dist/tex/generic/iftex/ifxetex.sty
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+)
+(/usr/local/texlive/2024/texmf-dist/tex/generic/iftex/ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+)
+(/usr/local/texlive/2024/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+)
+(/usr/local/texlive/2024/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(/usr/local/texlive/2024/texmf-dist/tex/latex/fontaxes/fontaxes.sty
+Package: fontaxes 2020/07/21 v1.0e Font selection axes
+LaTeX Info: Redefining \upshape on input line 29.
+LaTeX Info: Redefining \itshape on input line 31.
+LaTeX Info: Redefining \slshape on input line 33.
+LaTeX Info: Redefining \swshape on input line 35.
+LaTeX Info: Redefining \scshape on input line 37.
+LaTeX Info: Redefining \sscshape on input line 39.
+LaTeX Info: Redefining \ulcshape on input line 41.
+LaTeX Info: Redefining \textsw on input line 47.
+LaTeX Info: Redefining \textssc on input line 48.
+LaTeX Info: Redefining \textulc on input line 49.
+)
+LaTeX Info: Redefining \oldstylenums on input line 161.
+LaTeX Info: Redefining \textsw on input line 169.
+)
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 24.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/ntxmi/m/it --> OML/EBGaramond-Maths/m/it on input l
+ine 24.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/ntxmi/b/it --> OML/EBGaramond-Maths/m/it on input l
+ine 24.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 25.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/EBGaramond-LF/m/n on input line 25.
+
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/b/n --> OT1/EBGaramond-LF/m/n on input line 25.
+
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/EBGaramond-Maths/m/it --> OML/EBGaramond-Maths/b/it
+ on input line 27.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/EBGaramond-LF/m/n --> OT1/EBGaramond-LF/bx/n on inp
+ut line 28.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/b/n --> OT1/EBGaramond-LF/bx/n on input line 33
+.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/b/n --> OT1/EBGaramond-LF/bx/n on input line 34
+.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/EBGaramond-LF/m/it on input line 3
+5.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/b/it --> OT1/EBGaramond-LF/bx/it on input line 
+36.
+LaTeX Font Info:    Redeclaring math alphabet \mathcal on input line 38.
+)
+(/usr/local/texlive/2024/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+LaTeX Font Info:    Trying to load font information for T1+EBGaramond-OsF on in
+put line 112.
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/ebgaramond/T1EBGaramond-OsF.fd
+File: T1EBGaramond-OsF.fd 2023/03/19 (autoinst) Font definitions for T1/EBGaram
+ond-OsF.
+)
+LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/n' will be
+(Font)              scaled to size 12.0pt on input line 112.
+)
+LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/n' will be
+(Font)              scaled to size 13.0pt on input line 13.
+Package typearea Info: These are the values describing the layout:
+(typearea)             DIV  = areaset
+(typearea)             BCOR = 36.135pt
+(typearea)             \paperwidth      = 433.62pt
+(typearea)              \textwidth      = 325.215pt
+(typearea)              \evensidemargin = -24.09pt
+(typearea)              \oddsidemargin  = -12.045pt
+(typearea)             \paperheight     = 650.43pt
+(typearea)              \textheight     = 466.56053pt
+(typearea)              \topmargin      = -48.18pt
+(typearea)              \headheight     = 18.0pt
+(typearea)              \headsep        = 28.07983pt
+(typearea)              \topskip        = 13.0pt
+(typearea)              \footskip       = 65.51962pt
+(typearea)              \baselineskip   = 18.7199pt
+(typearea)              on input line 30.
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2024-02-20 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count286
+\l__pdf_internal_box=\box60
+)
+No file book15.aux.
+\openout1 = `book15.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/EBGaramond-Maths/m/it on input li
+ne 31.
+LaTeX Font Info:    Trying to load font information for OML+EBGaramond-Maths on
+ input line 31.
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/ebgaramond-maths/OMLEBGaramond-Ma
+ths.fd
+File: OMLEBGaramond-Maths.fd 2019/09/24 font definitions for OML/EBGaramond-Mat
+hs.
+)
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OT1/EBGaramond-LF/m/n on input line 3
+1.
+LaTeX Font Info:    Trying to load font information for OT1+EBGaramond-LF on in
+put line 31.
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/ebgaramond/OT1EBGaramond-LF.fd
+File: OT1EBGaramond-LF.fd 2023/03/19 (autoinst) Font definitions for OT1/EBGara
+mond-LF.
+)
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 31.
+LaTeX Font Info:    Trying to load font information for U+ntxexa on input line 
+31.
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/newtx/untxexa.fd
+File: untxexa.fd 2012/04/16 Fontinst v1.933 font definitions for U/ntxexa.
+)
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 31.
+LaTeX Font Info:    Trying to load font information for LMS+ntxsy on input line
+ 31.
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/newtx/lmsntxsy.fd
+File: lmsntxsy.fd 2016/07/02 Fontinst v1.933 font definitions for LMS/ntxsy.
+)
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 31.
+LaTeX Font Info:    Trying to load font information for LMX+ntxexx on input lin
+e 31.
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/newtx/lmxntxexx.fd
+File: lmxntxexx.fd 2016/07/03 Fontinst v1.933 font definitions for LMX/ntxexx.
+)
+LaTeX Font Info:    ... okay on input line 31.
+Package scrbase Info: activating english \partname on input line 31.
+Package scrbase Info: activating english \chaptername on input line 31.
+Package scrbase Info: activating english \appendixname on input line 31.
+Package scrbase Info: activating english \figurename on input line 31.
+Package scrbase Info: activating english \tablename on input line 31.
+Package scrbase Info: activating english \contentsname on input line 31.
+Package scrbase Info: activating english \listfigurename on input line 31.
+Package scrbase Info: activating english \listtablename on input line 31.
+Package scrbase Info: activating english \bibname on input line 31.
+Package scrbase Info: activating english \indexname on input line 31.
+LaTeX Info: Command `\dddot' is already robust on input line 31.
+LaTeX Info: Command `\ddddot' is already robust on input line 31.
+\c@mv@tabular=\count287
+\c@mv@boldtabular=\count288
+
+Overfull \hbox (12.89069pt too wide) in alignment at lines 238--438
+ [] [] 
+ []
+
+LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/sl' in size <13> not availa
+ble
+(Font)              Font shape `T1/EBGaramond-OsF/m/it' tried instead on input 
+line 438.
+LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/it' will be
+(Font)              scaled to size 13.0pt on input line 438.
+[1
+
+{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/loc
+al/texlive/2024/texmf-dist/fonts/enc/dvips/ebgaramond/ebg_tcdnmr.enc}]
+[2] [3] [4] [5] [6] [7]
+Overfull \hbox (13.56668pt too wide) in alignment at lines 438--638
+ [] [] 
+ []
+
+[8] [9] [10] [11] [12] [13] [14] [15]
+Overfull \hbox (13.56668pt too wide) in alignment at lines 638--838
+ [] [] 
+ []
+
+[16] [17] [18] [19] [20] [21] [22] [23]
+Overfull \hbox (13.56668pt too wide) in alignment at lines 838--920
+ [] [] 
+ []
+
+[24] [25] [26] [27] [28] [29] [30] [31]
+
+Package longtable Warning: Column widths have changed
+(longtable)                in table 1 on input line 920.
+
+[32] [33] [34] [35]
+
+Package longtable Warning: Table widths have changed. Rerun LaTeX.
+
+[36] (phase_3_pdf/book15.aux)
+ ***********
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-02-20>
+ ***********
+ ) 
+Here is how much of TeX's memory you used:
+ 8238 strings out of 474116
+ 147515 string characters out of 5743682
+ 2021187 words of memory out of 5000000
+ 30553 multiletter control sequences out of 15000+600000
+ 573739 words of font info for 41 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 108i,8n,107p,10913b,289s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2024/texmf-dist/fonts/type1/public/ebgaramond/EBGaramond-
+Regular.pfb>
+Output written on phase_3_pdf/book15.pdf (36 pages, 96962 bytes).
+PDF statistics:
+ 125 PDF objects out of 1000 (max. 8388607)
+ 84 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+

@@ -1,0 +1,41 @@
+manifest.txt
+Copyright 2019 Clea F. Rees
+
+This work may be distributed and/or modified under the
+conditions of the LaTeX Project Public License, either version 1.3
+of this license or (at your option) any later version.
+The latest version of this license is in
+  http://www.latex-project.org/lppl.txt
+and version 1.3 or later is part of all distributions of LaTeX
+version 2005/12/01 or later.
+
+This work has the LPPL maintenance status `maintained'.
+
+The Current Maintainer of this work is Clea F. Rees.
+
+This work consists of all files listed in manifest.txt.
+
+All TeX Font Metric files (suffix .tfm in subdirectory fonts/tfm)
+are derived from the relevant EBGaramond fonts, supplied as part of the
+ebgaramond package released 2019-05-04 (version 0.16) by Bob Tennent and
+available from ttp://ctan.org/pkg/ebgaramond. The TeX Font Metric (suffix
+.tfm) files are derived specifically from the opentype fonts (suffix
+.otf) using otftotfm as explained in the package documentation.
+
+The encoding a_42pejf.enc is derived from the file oml.etx supplied with
+fontinst. A copy of fontinst including an unmodified copy of oml.etx is
+available from http://mirror.ctan.org/fonts/utilities/fontinst.
+
+manifest.txt
+README
+OMLEBGaramond-Maths.fd
+ebgaramond-maths.sty
+ebgaramond-maths.tex
+
+Derived files:
+EBGaramond-Maths.map
+EBGaramond-Italic--oml-ebgaramond.tfm
+a_42pejf.enc
+ebgaramond-maths.pdf
+
+vim: set nospell: 
