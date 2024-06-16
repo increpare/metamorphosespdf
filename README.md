@@ -5,7 +5,7 @@ Wanted to make little printable versions of the books of Ovid's Metamorphoses fo
 The texts were taken from https://www.thelatinlibrary.com, and automatically macronized with https://alatius.com/macronizer/ .   It makes errors not infrequently.  I *could* try myself to fix a lot of them (ideally by fixing bugs in the macronizer tool rather than by hand), but this project was made achievable by my accepting that it's a somewhat cheap and cheerful enterprise rather than an extended timesink, so, at least for now, I'm unlikely to. 😅
 
 
-## Lulu purchase links
+## [Lulu purchase links](https://www.lulu.com/spotlight/increpare)
 * [Metamorphoseon : Book 1](https://www.lulu.com/shop/publius-naso-ovidius/metamorphoseon-1/paperback/product-dymyw5k.html?page=1&pageSize=4)
 * [Metamorphoseon : Book 2](https://www.lulu.com/shop/publius-naso-ovidius/metamorphoseon-2/paperback/product-jenegp5.html?page=1&pageSize=4)
 * [Metamorphoseon : Book 3](https://www.lulu.com/shop/publius-naso-ovidius/metamorphoseon-3/paperback/product-p6e6qp6.html?page=1&pageSize=4)
