@@ -1,6 +1,6 @@
 ![bookcovers](https://github.com/increpare/metamorphosespdf/assets/465632/8dedbc65-6e61-4523-8ada-ec2945b0360e)
 
-Wanted to make little printable versions of the books of Ovid's Metamorphoses for printing on lulu.  You can get a zip of all the books as PDFs directly [here](https://github.com/increpare/metamorphosespdf/releases/tag/publish) if you wish. 
+I wanted to make printable versions of the individual books of Ovid's Metamorphoses for printing on lulu.  You can get a zip of all the books as PDFs directly [here](https://github.com/increpare/metamorphosespdf/releases/tag/publish) if you wish. 
 
 The texts were taken from https://www.thelatinlibrary.com, and automatically macronized with https://alatius.com/macronizer/ .   It makes errors not infrequently.  I *could* try myself to fix a lot of them (ideally by fixing bugs in the macronizer tool rather than by hand), but this project was made achievable by my accepting that it's a somewhat cheap and cheerful enterprise rather than an extended timesink, so, at least for now, I'm unlikely to. 😅
 
