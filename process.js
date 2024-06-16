@@ -140,6 +140,9 @@ fs.readdirSync('./phase_1_macronized').forEach(file => {
             console.log(error);
         }
         console.log(stdout);
+        //delete .aux and .log files
+        fs.unlinkSync('./phase_3_pdf/' + filename_without_extension + '.aux');
+        fs.unlinkSync('./phase_3_pdf/' + filename_without_extension + '.log');
     });
 
 });
